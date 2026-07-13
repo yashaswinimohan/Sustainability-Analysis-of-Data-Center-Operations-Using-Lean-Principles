@@ -1,0 +1,2 @@
+# Sustainability-Analysis-of-Data-Center-Operations-Using-Lean-Principles
+Conducted a sustainability analysis of AWS data center operations using Lean principles. Applied Value Stream Mapping, Fishbone Analysis, PDCA, and Python to analyze 402 EC2 configurations, identify energy waste, optimize carbon emissions, and recommend data-driven improvements for greener, more efficient cloud infrastructure.
